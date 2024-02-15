@@ -12,7 +12,7 @@
 ### 2.gün Tahmin (Prediction) 
 * Tahmin(Prediction) ve Öngörü(Forecasting)
 * Basit lineer regresyon
-<<<<<<< HEAD
+
 
 
 
@@ -22,6 +22,3 @@
 * Çoklu Linear Regresyonda Değişken Seçimi
 * AIC ve BIC Nedir?
 * OLS Regression 
-=======
-  
->>>>>>> 73afdf36a695b57bf1c3670f1206383ea9761ce5
