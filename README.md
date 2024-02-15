@@ -8,3 +8,6 @@
     * Label encoder and OneHot encoder
     * Data split train and test
     * Standard Scaler
+
+### 2.gün Tahmin (Prediction) 
+*
