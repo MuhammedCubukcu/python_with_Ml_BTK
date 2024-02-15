@@ -10,4 +10,6 @@
     * Standard Scaler
 
 ### 2.gün Tahmin (Prediction) 
-*
+* Tahmin(Prediction) ve Öngörü(Forecasting)
+* Basit lineer regresyon
+  
