@@ -10,4 +10,14 @@
     * Standard Scaler
 
 ### 2.gün Tahmin (Prediction) 
-*
+* Tahmin(Prediction) ve Öngörü(Forecasting)
+* Basit lineer regresyon
+
+
+
+### 3.gün Çoklu Doğrusal Regresyon (Multiple Linear Regression)
+* Dummy Variable (Kukla Değişken)
+* p-value Nedir?
+* Çoklu Linear Regresyonda Değişken Seçimi
+* AIC ve BIC Nedir?
+* OLS Regression 
