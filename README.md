@@ -22,3 +22,7 @@
 * Çoklu Linear Regresyonda Değişken Seçimi
 * AIC ve BIC Nedir?
 * OLS Regression 
+
+### 4.gün Polinomal Regresyon (Polynomial Regression)
+* Polinom Regresyonu Modeli
+* Polinom Regresyonu Denklemi
