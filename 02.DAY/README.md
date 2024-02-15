@@ -50,4 +50,4 @@ Bu kod, LinearRegression sınıfını kullanarak bir doğrusal regresyon modeli 
 
 ### Grafiği:
 
-![Scatter Plot](/home/user/python_with_Ml_BTK/02.DAY/basit_linear_regrasyon_img.png)
+![Scatter Plot](02.DAY/basit_linear_regrasyon_img.png)
