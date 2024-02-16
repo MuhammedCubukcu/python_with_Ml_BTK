@@ -36,3 +36,8 @@
 ### 6.gün Karar Ağacı Algoritması (Decision Tree)
 * Nasıl Çalışır?
 * Kullanım Alanları
+
+### 7.gün Random Forest
+* Algoritmanın Adımları
+* Avantajlar
+* Dezavantajlar
