@@ -41,3 +41,12 @@
 * Algoritmanın Adımları
 * Avantajlar
 * Dezavantajlar
+
+### 8.gün  Tahmin Algoritmalarının Değerlendirilmesi
+* Doğruluk (Accuracy)
+* Hassasiyet (Precision)
+* Geri Çağırma (Recall)
+* F1 Puanı
+* Ortalama Karesel Hata (MSE)
+* R-Kare (R²)
+* AUC-ROC Eğrisi
