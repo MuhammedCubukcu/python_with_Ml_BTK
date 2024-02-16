@@ -50,3 +50,8 @@
 * Ortalama Karesel Hata (MSE)
 * R-Kare (R²)
 * AUC-ROC Eğrisi
+### 9.gün Genel Tekrar Ödevi
+
+
+
+
