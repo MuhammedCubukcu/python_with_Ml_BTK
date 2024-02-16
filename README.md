@@ -32,3 +32,7 @@
 * Model Hiperdüzlemi
 * Hata Terimi ve Marjinal Epsilon (ε)
 * Destek Vektörler ve Dual Formülasyon
+
+### 6.gün Karar Ağacı Algoritması (Decision Tree)
+* Nasıl Çalışır?
+* Kullanım Alanları
