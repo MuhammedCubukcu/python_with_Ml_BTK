@@ -26,3 +26,9 @@
 ### 4.gün Polinomal Regresyon (Polynomial Regression)
 * Polinom Regresyonu Modeli
 * Polinom Regresyonu Denklemi
+
+
+### 5.gün Destek Vektör Regresyon (SVR)
+* Model Hiperdüzlemi
+* Hata Terimi ve Marjinal Epsilon (ε)
+* Destek Vektörler ve Dual Formülasyon
