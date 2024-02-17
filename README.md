@@ -68,3 +68,5 @@
 
 ### 12.gün Destek Vektör Makinesi (SVM)
 * Kernel Fonksiyonları
+
+### 13.gün Naive Bayes Sınıflandırma Algoritması
