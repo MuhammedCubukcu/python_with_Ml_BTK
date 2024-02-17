@@ -59,4 +59,9 @@
 * Avantajları ve Dezavantajları
 * Logistic regression'ın matematiksel formülü
 
-
+### 11.gün KNN Algoritması
+* Kullanım Alanları
+* Nasıl Çalışır
+* Avantajları ve Dezavantajları
+* Öklid Mesafe Metriği
+* Minkowski Mesafe Metriği
