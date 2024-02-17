@@ -74,3 +74,6 @@
 ### 14.gün Decision Tree Sınıflandırma
 
 ### 15.gün Random Forest Sınıflandırma
+
+### 16.gün Denetimsiz öğrenme
+* Denetimsiz Öğrenme Algoritmaları
