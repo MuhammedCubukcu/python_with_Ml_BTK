@@ -36,3 +36,26 @@ K-En Yakın Komşu (KNN), sınıflandırma ve regresyon problemlerini çözmek i
 \[ d(x, y) = \sqrt{\sum_{i=1}^{n}(x_i - y_i)^2} \]
 
 Bu formül, iki nokta arasındaki uzaklığı hesaplamak için kullanılır. Burada, \( x \) ve \( y \) vektörleri, her biri bir veri noktasını temsil eden özellik değerlerini içerir. \( n \), özelliklerin sayısını temsil eder. \( x_i \) ve \( y_i \) ise karşılaştırılan iki veri noktasının ilgili özelliklerinin değerleridir.
+
+
+### Minkowski Mesafe Metriği:
+
+Minkowski mesafe metriği, iki nokta arasındaki uzaklığı hesaplamak için kullanılır. Öklid mesafesi ve Manhattan mesafesi gibi özel durumlar, Minkowski mesafe metriğinin özel bir durumudur.
+
+Minkowski mesafe metriği şu formülle ifade edilir:
+
+\[ d(x, y) = \left( \sum_{i=1}^{n} |x_i - y_i|^p \right)^{\frac{1}{p}} \]
+
+Bu formülde, \( x \) ve \( y \) vektörleri, her biri bir veri noktasını temsil eden özellik değerlerini içerir. \( n \), özelliklerin sayısını temsil eder. \( x_i \) ve \( y_i \) ise karşılaştırılan iki veri noktasının ilgili özelliklerinin değerleridir. \( p \), Minkowski mesafesi için bir parametredir ve genellikle 1 veya 2 olarak seçilir.
+
+Özel durumlar:
+- \( p = 1 \): Manhattan mesafesi
+- \( p = 2 \): Öklid mesafesi
+
+### K-En Yakın Komşu (KNN) Algoritması ve Minkowski Mesafe Metriği:
+
+KNN algoritması, veri noktaları arasındaki uzaklığı hesaplamak için Minkowski mesafe metriğini kullanabilir. Bu mesafe metriği, öklid mesafesi veya Manhattan mesafesi gibi diğer mesafe metriklerinin genellemesidir. KNN algoritması, bu mesafe metriği kullanılarak veri noktalarının birbirlerine olan yakınlığını belirler ve tahminlerde bulunur.
+
+KNN algoritmasında, genellikle \( p \) parametresi olarak 1 veya 2 seçilir. \( p = 1 \) olduğunda, Manhattan mesafesi kullanılırken, \( p = 2 \) olduğunda, Öklid mesafesi kullanılır. Bu, Minkowski mesafe metriğinin özel durumlarına karşılık gelir.
+
+Bu şekilde, KNN algoritması, Minkowski mesafe metriği kullanarak veri noktaları arasındaki uzaklığı ölçer ve bu bilgiyi sınıflandırma veya regresyon problemlerinde tahminler yapmak için kullanır.

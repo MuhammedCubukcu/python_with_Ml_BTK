@@ -52,7 +52,7 @@
 * AUC-ROC Eğrisi
 ### 9.gün Genel Tekrar Ödevi
 
-### 10.Gün Sınıflandırma
+### 10.gün Sınıflandırma
 * Sınıflandırma Nedir?
 * Logistic Regression
 * Nasıl Çalışır?
@@ -65,3 +65,6 @@
 * Avantajları ve Dezavantajları
 * Öklid Mesafe Metriği
 * Minkowski Mesafe Metriği
+
+### 12.gün Destek Vektör Makinesi (SVM)
+* Kernel Fonksiyonları
