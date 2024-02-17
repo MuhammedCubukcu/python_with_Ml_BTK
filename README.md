@@ -70,3 +70,5 @@
 * Kernel Fonksiyonları
 
 ### 13.gün Naive Bayes Sınıflandırma Algoritması
+
+### 14.gün Decision Tree Sınıflandırma
