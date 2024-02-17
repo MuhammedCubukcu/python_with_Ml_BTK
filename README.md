@@ -52,6 +52,11 @@
 * AUC-ROC Eğrisi
 ### 9.gün Genel Tekrar Ödevi
 
-
+### 10.Gün Sınıflandırma
+* Sınıflandırma Nedir?
+* Logistic Regression
+* Nasıl Çalışır?
+* Avantajları ve Dezavantajları
+* Logistic regression'ın matematiksel formülü
 
 
