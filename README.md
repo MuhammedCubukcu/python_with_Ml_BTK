@@ -72,3 +72,5 @@
 ### 13.gün Naive Bayes Sınıflandırma Algoritması
 
 ### 14.gün Decision Tree Sınıflandırma
+
+### 15.gün Random Forest Sınıflandırma
